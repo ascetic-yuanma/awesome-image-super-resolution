@@ -16,8 +16,8 @@ PyTorch = 1.1
 
 ## Paper list and implementation of PSNR-maximization algorithms
 [1] Dong C, Loy C C, He K, et al. Image super-resolution using deep convolutional networks[J]. IEEE transactions on pattern analysis and machine intelligence, 2015, 38(2): 295-307. [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)[[official project]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
-
-<u>***Testing results:***</u>	[google drive](to be filled)
+<u>***For training & testing:***</u>	[[specifications]](https://github.com/ascetic-yuanma/awesome-image-super-resolution/schedule.py#L3-L4)
+<u>***Testing results:***</u>	[[google drive]](to be filled)
 
 | algorithms & PSNR/SSIM |     Set5     |    Set14     |     B100     |   Urban100   |   Manga109   |
 | :--------------------: | :----------: | :----------: | :----------: | :----------: | :----------: |

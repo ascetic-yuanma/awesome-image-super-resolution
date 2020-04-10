@@ -9,7 +9,7 @@ Everyone is free to use the results for qualitative comparisons in your own work
 [1] Anwar S, Khan S, Barnes N. A deep journey into super-resolution: A survey[J]. arXiv preprint arXiv:1904.07523, 2019. [[paper]](https://arxiv.org/pdf/1904.07523.pdf)
 
 ## Paper list and implementation results of PSNR-maximization algorithms
-[1] Dong C, Loy C C, He K, et al. Image super-resolution using deep convolutional networks[J]. TPAMI, 2015, 38(2): 295-307. 
+**[1] Dong C, Loy C C, He K, et al. Image super-resolution using deep convolutional networks[J]. TPAMI, 2015, 38(2): 295-307. **
 
 |                    algorithms & PSNR/SSIM                    |     Set5     |    Set14     |     B100     |   Urban100   |   Manga109   |
 | :----------------------------------------------------------: | :----------: | :----------: | :----------: | :----------: | :----------: |
@@ -17,7 +17,7 @@ Everyone is free to use the results for qualitative comparisons in your own work
 |    implementation[[results]](to be filled)    | to be filled | to be filled | to be filled | to be filled | to be filled |
 
 ## Paper list and implementation results of PI-minimization algorithms
-[1] Ledig C, Theis L, Huszár F, et al. Photo-realistic single image super-resolution using a generative adversarial network[C]//CVPR. 2017: 4681-4690.
+**[1] Ledig C, Theis L, Huszár F, et al. Photo-realistic single image super-resolution using a generative adversarial network[C]//CVPR. 2017: 4681-4690.**
 
 |                  algorithms & PI/RMSE                  |     Set5     |    Set14     |     B100     |   Urban100   |   Manga109   |   PIRM-SR    |
 | :----------------------------------------------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |

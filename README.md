@@ -1,13 +1,9 @@
 # awesome-image-super-resolution
 Paper list and implementation  (training and testing codes & results) in an unified project of CNN-based single image super-resolution algorithms, inspired by [Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution).
 
-All the implementation results are compared with reported results in their papers. For fast training, it's only trained at scaling ratio 4.
+All the implementation results are compared with reported results in their papers. For implementation details (training and testing codes), please refer to [[wiki]]( https://github.com/ascetic-yuanma/awesome-image-super-resolution/wiki/Implementation--details).
 
-For implementation details (training and testing codes), please refer to [[wiki]]( https://github.com/ascetic-yuanma/awesome-image-super-resolution/wiki/Implementation--details).
-
-Everyone is free to use the results for qualitative comparisons in your own work, I hope this repository can help you a lot!
-
-If you have any suggestions, please kindly send an e-mail to yuan.ma@whut.edu.cn.
+Everyone is free to use the results for qualitative comparisons in your own work, I hope this repository can help you a lot! If you have any suggestions, please kindly send an e-mail to yuan.ma@whut.edu.cn.
 
 ## Survey paper
 [1] Anwar S, Khan S, Barnes N. A deep journey into super-resolution: A survey[J]. arXiv preprint arXiv:1904.07523, 2019. [[paper]](https://arxiv.org/pdf/1904.07523.pdf)

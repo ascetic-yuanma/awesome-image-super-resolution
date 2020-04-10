@@ -9,7 +9,7 @@ If you have any suggestions, please kindly send an e-mail to yuan.ma@whut.edu.cn
 ## Requirements
 Python = 3.6  
 PyTorch = 1.1  
-This project is based on [[EDSR]](https://github.com/thstkdgus35/EDSR-PyTorch) and [[MMSR]](https://github.com/open-mmlab/mmsr).
+Notice: This project is based on [[EDSR]](https://github.com/thstkdgus35/EDSR-PyTorch) and [[MMSR]](https://github.com/open-mmlab/mmsr).
 
 ## Survey paper
 [1] Anwar S, Khan S, Barnes N. A deep journey into super-resolution: A survey[J]. arXiv preprint arXiv:1904.07523, 2019. [[paper]](https://arxiv.org/pdf/1904.07523.pdf)

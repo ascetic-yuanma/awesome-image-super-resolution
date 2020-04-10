@@ -8,7 +8,7 @@ Everyone is free to use the results for qualitative comparisons in your own work
 If you have any suggestions, please kindly send an e-mail to yuan.ma@whut.edu.cn.
 ## Requirements
 Python = 3.6  
-PyTorch = 1.1
+PyTorch = 1.1  
 This project is based on [[EDSR]](https://github.com/thstkdgus35/EDSR-PyTorch) and [[MMSR]](https://github.com/open-mmlab/mmsr).
 
 ## Survey paper

@@ -18,7 +18,7 @@ If you have any suggestions, please kindly send an e-mail to yuan.ma@whut.edu.cn
 |                    algorithms & PSNR/SSIM                    |     Set5     |    Set14     |     B100     |   Urban100   |   Manga109   |
 | :----------------------------------------------------------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 | SRCNN[[paper]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) | 30.48/0.8628 | 27.50/0.7513 | 26.90/0.7103 | 24.52/0.7226 | 27.66/0.8580 |
-|    implementation[[implementation results]](to be filled)    | to be filled | to be filled | to be filled | to be filled | to be filled |
+|    implementation[[results]](to be filled)    | to be filled | to be filled | to be filled | to be filled | to be filled |
 
 ## Paper list and implementation results of PI-minimization algorithms
 [1] Ledig C, Theis L, Huszár F, et al. Photo-realistic single image super-resolution using a generative adversarial network[C]//CVPR. 2017: 4681-4690.
@@ -26,5 +26,5 @@ If you have any suggestions, please kindly send an e-mail to yuan.ma@whut.edu.cn
 |                  algorithms & PI/RMSE                  |     Set5     |    Set14     |     B100     |   Urban100   |   Manga109   |   PIRM-SR    |
 | :----------------------------------------------------: | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 |  SRGAN[[paper]](https://arxiv.org/pdf/1609.04802.pdf)  | to be filled | to be filled | to be filled | to be filled | to be filled | to be filled |
-| implementation[[implementation results]](to be filled) | to be filled | to be filled | to be filled | to be filled | to be filled | to be filled |
+| implementation[[results]](to be filled) | to be filled | to be filled | to be filled | to be filled | to be filled | to be filled |
 

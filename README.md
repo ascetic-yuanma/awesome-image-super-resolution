@@ -3,6 +3,8 @@ Paper list and implementation  (training and testing codes & results) in an unif
 
 All the implementation results are compared with reported results in their papers. For fast training, it's only trained at scaling ratio 4.
 
+For implementation details (training and testing codes), please refer to [[wiki]]( https://github.com/ascetic-yuanma/awesome-image-super-resolution/wiki/Implementation--details).
+
 Everyone is free to use the results for qualitative comparisons in your own work, I hope this repository can help you a lot!
 
 If you have any suggestions, please kindly send an e-mail to yuan.ma@whut.edu.cn.

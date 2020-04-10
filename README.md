@@ -16,12 +16,14 @@ PyTorch = 1.1
 
 ## Paper list and implementation of PSNR-maximization algorithms
 [1] Dong C, Loy C C, He K, et al. Image super-resolution using deep convolutional networks[J]. IEEE transactions on pattern analysis and machine intelligence, 2015, 38(2): 295-307. [[paper]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)[[official project]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)  
-<u>***For training and testing:***u>
+<u>***For training and testing:***</u>
+
 ```
 python main.py -opt options\\train\\train_SRCNN.yml
 python main.py -opt options\\test\\test_SRCNN.yml
 ```
 <u>***Testing results:***</u>	[google drive](to be filled)
+
 | algorithms & PSNR/SSIM |     Set5     |    Set14     |     B100     |   Urban100   |   Manga109   |
 | :--------------------: | :----------: | :----------: | :----------: | :----------: | :----------: |
 |    reported results    | 30.48/0.8628 | 27.50/0.7513 | 26.90/0.7103 | 24.52/0.7226 | 27.66/0.858  |
@@ -29,7 +31,8 @@ python main.py -opt options\\test\\test_SRCNN.yml
 
 ## Paper list and implementation of PI-minimization algorithms
 [1] Ledig C, Theis L, Huszár F, et al. Photo-realistic single image super-resolution using a generative adversarial network[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2017: 4681-4690.[[paper]](https://arxiv.org/pdf/1609.04802.pdf)  
-<u>***For training and testing:***u>
+<u>***For training and testing:***</u>
+
 ```
 python main.py -opt options\\train\\train_SRGAN.yml
 python main.py -opt options\\test\\test_SRGAN.yml
